@@ -1,0 +1,56 @@
+2023-02-07 02:33:29,803 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 02:33:29,883 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 02:33:29,961 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 02:33:30,016 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 02:33:30,147 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 02:33:30,234 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 02:33:30,299 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 02:33:30,362 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 02:33:39,914 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Raman Arora
+2023-02-07 02:33:40,076 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711911558
+2023-02-07 02:33:40,154 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : java@way2automation.com
+2023-02-07 02:33:44,274 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : Germany
+2023-02-07 02:33:44,351 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Berlin
+2023-02-07 02:33:44,447 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : ramanarora1986
+2023-02-07 02:33:44,538 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : werwerwer
+2023-02-07 02:33:44,597 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 02:35:44,670 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 02:35:44,748 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 02:35:44,840 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 02:35:44,974 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 02:35:45,028 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 02:35:45,107 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 02:35:45,174 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 02:35:45,231 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 02:36:36,403 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 02:36:36,490 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 02:36:36,667 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 02:36:36,740 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 02:36:36,801 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 02:36:36,882 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 02:36:36,966 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 02:36:37,041 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 02:41:00,454 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 02:41:00,544 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 02:41:00,659 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 02:41:00,803 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 02:41:00,855 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 02:41:00,946 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 02:41:01,024 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 02:41:01,088 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 02:52:43,773 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 02:52:43,851 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 02:52:43,930 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 02:52:44,068 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 02:52:44,118 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 02:52:44,192 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 02:52:44,263 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 02:52:44,326 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2023-02-07 03:02:06,942 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul Arora
+2023-02-07 03:02:07,020 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 9711111558
+2023-02-07 03:02:07,099 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : trainer@way2automation.com
+2023-02-07 03:02:07,142 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2023-02-07 03:02:07,205 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2023-02-07 03:02:07,278 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : rahularora1985
+2023-02-07 03:02:07,348 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : asdfsdfdf
+2023-02-07 03:02:07,407 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
