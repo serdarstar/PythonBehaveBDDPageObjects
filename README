@@ -1,0 +1,8 @@
+This repo is based on
+Selenium Python with Behave BDD(Basic + Advance + Architect) Rahul Arora
+
+For allure reports, correct cmd command to create reports folder
+behave --no-capture -f allure_behave.formatter:AllureFormatter -o AllureReports
+
+Then use this to generate report
+allure serve AllureReports
