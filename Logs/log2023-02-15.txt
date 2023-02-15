@@ -1,0 +1,95 @@
+2023-02-15 11:20:14,956 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:20:15,128 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:20:15,311 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:20:15,389 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:20:15,494 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:20:15,662 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:20:15,809 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:22:49,378 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:22:49,468 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:22:49,550 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:22:49,706 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:22:49,766 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:22:49,850 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:22:49,925 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:22:49,937 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:23:16,120 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:23:16,203 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:23:16,294 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:23:16,445 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:23:16,514 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:23:16,584 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:23:16,655 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:23:16,667 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:23:25,911 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Raman Arora
+2023-02-15 11:23:26,002 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711911558
+2023-02-15 11:23:26,256 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : java@way2automation.com
+2023-02-15 11:23:26,378 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Germany
+2023-02-15 11:23:26,494 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Berlin
+2023-02-15 11:23:26,625 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : ramanarora1986
+2023-02-15 11:23:26,753 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : werwerwer
+2023-02-15 11:23:26,776 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:25:20,843 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:25:20,928 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:25:21,029 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:25:21,099 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:25:21,162 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:25:21,252 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:25:21,340 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:25:21,355 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:26:03,543 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:26:03,654 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:26:03,778 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:26:03,852 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:26:03,929 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:26:04,069 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:26:04,187 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:26:04,228 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:26:14,208 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Raman Arora
+2023-02-15 11:26:14,345 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711911558
+2023-02-15 11:26:14,543 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : java@way2automation.com
+2023-02-15 11:26:14,677 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Germany
+2023-02-15 11:26:14,786 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Berlin
+2023-02-15 11:26:14,961 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : ramanarora1986
+2023-02-15 11:26:15,082 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : werwerwer
+2023-02-15 11:26:15,101 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:26:39,060 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:26:39,239 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:26:39,413 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:26:39,509 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:26:39,619 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:26:39,777 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:26:39,919 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:26:39,943 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:27:04,145 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:27:04,268 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:27:04,570 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:27:04,671 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:27:04,767 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:27:04,904 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:27:05,008 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:27:05,034 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']
+2023-02-15 11:29:04,024 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:29:04,273 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:29:04,432 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:29:04,505 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:29:04,597 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:29:04,738 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:29:04,864 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:29:04,882 - BasePage.py:[18] - [INFO] - Clicking on an element: //a[normalize-space()='Signin']
+2023-02-15 11:30:21,797 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:30:21,969 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:30:22,174 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:30:22,472 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:30:22,606 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:30:22,755 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:30:22,907 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:30:23,025 - BasePage.py:[18] - [INFO] - Clicking on an element: //a[normalize-space()='Signin']
+2023-02-15 11:30:52,952 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul Arora
+2023-02-15 11:30:53,224 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 9711111558
+2023-02-15 11:30:53,476 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-15 11:30:53,624 - BasePage.py:[31] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : India
+2023-02-15 11:30:53,775 - BasePage.py:[22] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-15 11:30:53,964 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-15 11:30:54,122 - BasePage.py:[22] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : asdfsdfdf
+2023-02-15 11:30:54,255 - BasePage.py:[18] - [INFO] - Clicking on an element: // div[ @ id = 'load_box'] // input[ @ value = 'Submit']

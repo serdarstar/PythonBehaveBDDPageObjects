@@ -13,48 +13,25 @@ class BasePage:
     def __init__(self, driver):
         self.driver = driver
 
-    def click(self, locator):
-        if str(locator).endswith("_XPATH"):
-            self.driver.find_element("xpath", configReader.readConfig("locators", locator)).click()
-        elif str(locator).endswith("_CSS"):
-            self.driver.find_element("css", configReader.readConfig("locators", locator)).click()
-        elif str(locator).endswith("_ID"):
-            self.driver.find_element("id", configReader.readConfig("locators", locator)).click()
+    def click(self, by, locator):
+        self.driver.find_element(by, locator).click()
         log.logger.info("Clicking on an element: " + str(locator))
 
-    def type(self, locator, value):
-        if str(locator).endswith("_XPATH"):
-            self.driver.find_element("xpath", configReader.readConfig("locators", locator)).send_keys(value)
-        elif str(locator).endswith("_CSS"):
-            self.driver.find_element("css", configReader.readConfig("locators", locator)).send_keys(value)
-        elif str(locator).endswith("_ID"):
-            self.driver.find_element("id", configReader.readConfig("locators", locator)).send_keys(value)
-
+    def type(self, by, locator, value):
+        self.driver.find_element(by, locator).send_keys(value)
         log.logger.info("Typing in an element: " + str(locator) + " value entered as : " + str(value))
 
-    def select(self, locator, value):
+    def select(self, by, locator, value):
         global dropdown
-        if str(locator).endswith("_XPATH"):
-            dropdown = self.driver.find_element("xpath", configReader.readConfig("locators", locator))
-        elif str(locator).endswith("_CSS"):
-            dropdown = self.driver.find_element("css", configReader.readConfig("locators", locator))
-        elif str(locator).endswith("_ID"):
-            dropdown = self.driver.find_element("id", configReader.readConfig("locators", locator))
+        dropdown=self.driver.find_element(by, locator)
 
         select = Select(dropdown)
         select.select_by_visible_text(value)
 
         log.logger.info("Selecting from an element: " + str(locator) + " value selected as : " + str(value))
 
-    def moveTo(self, locator):
-        #added comments
-        if str(locator).endswith("_XPATH"):
-            element = self.driver.find_element("xpath",configReader.readConfig("locators", locator))
-        elif str(locator).endswith("_CSS"):
-            element = self.driver.find_element("css", configReader.readConfig("locators", locator))
-        elif str(locator).endswith("_ID"):
-            element = self.driver.find_element("id", configReader.readConfig("locators", locator))
-
+    def moveTo(self, by, locator):
+        element = self.driver.find_element(by, locator)
         action = ActionChains(self.driver)
         action.move_to_element(element).perform()
 

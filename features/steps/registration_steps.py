@@ -51,4 +51,4 @@ def step_impl(context, password):
 def step_impl(context):
     context.reg.submitForm()
     assert True
-    time.sleep(1)
+    time.sleep(2)
